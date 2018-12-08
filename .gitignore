@@ -1,0 +1,6 @@
+# Generated files
+*.d.ts
+*.js
+
+# Dependencies
+node_modules
